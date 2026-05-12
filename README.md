@@ -1,4 +1,3 @@
 # payroll-system
 
-## Features
-- 
+## A payroll system build with Python.
